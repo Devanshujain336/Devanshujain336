@@ -1,17 +1,3 @@
-# GitHub Profile README
-
-This is the code for your GitHub profile main page (your "special" repository).
-
-## 🚀 How to display this on your GitHub profile:
-1. Create a public repository named exactly after your GitHub username: **`Devanshujain336`**.
-2. Make sure you check "Initialize this repository with a README".
-3. Add the [github_profile.svg](github_profile.svg) file to the root of that repository.
-4. Copy the Markdown code below and paste it into the `README.md` of that repository.
-5. Save and commit. Your profile page will now display this gorgeous terminal-style card!
-
----
-
-### Markdown code for your repository `README.md`:
 
 ```markdown
 # Hi there, I'm Devanshu Jain! 👋
