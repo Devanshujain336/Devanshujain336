@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Devanshu Jain 👋</h1>
 
-<h3 align="center">Building distributed systems, IoT solutions, and AI-powered products</h3>
+<h3 align="center">Building distributed systems and AI-powered products</h3>
 
 <p align="center">
   <a href="mailto:devanshujain336@gmail.com"><img src="https://img.shields.io/badge/Email-devanshujain336%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
