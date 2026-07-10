@@ -1,19 +1,23 @@
 <h1 align="center">Hi there, I'm Devanshu Jain 👋</h1>
 
-<h3 align="center">Building distributed systems and AI-powered products</h3>
+<h3 align="center">Building distributed systems and AI-powered automations and products</h3>
 
 <p align="center">
   <a href="mailto:devanshujain336@gmail.com"><img src="https://img.shields.io/badge/Email-devanshujain336%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-1720%2B-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/YOUR-CODOLIO"><img src="https://img.shields.io/badge/Codolio-Profile-6C63FF?style=flat"/></a>
+  <a href="https://linkedin.com/in/devanshujain12"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/DevZen"><img src="https://img.shields.io/badge/LeetCode-1720%2B-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+  <a href="https://codolio.com/profile/DevZen"><img src="https://img.shields.io/badge/Codolio-Profile-6C63FF?style=flat"/></a>
 </p>
+
+<div align="center">
+  <img src="github_profile.svg" alt="Devanshu Jain Terminal Profile" width="100%">
+</div>
 
 ---
 
 ### 🎓 About Me
 
-- 🎓 B.Tech + M.Tech Dual Degree in **Computer Science & Engineering**, National Institute of Technology, Kurukshetra (2024 – 2029) — CGPA **8.96/10**
+- 🎓 B.Tech + M.Tech Dual Degree in **Computer Science & Engineering**, National Institute of Technology, Kurukshetra (2024 – 2029)
 - 💻 Interested in **Distributed Systems, Concurrency, System Design**, and **AI/ML applications**
 - 🏆 **AIR 1499** — ICPC Amritapuri Regional Contest 2025
 - 🥈 **Runner-Up**, HackShetra 25 (NIT Kurukshetra's flagship hackathon, 150+ teams)
@@ -57,19 +61,19 @@
 
 ### 🚀 Featured Projects
 
-#### 🆘 [Sunstone — AI-Enabled IoT SOS Emergency System](https://github.com/YOUR-USERNAME/sunstone)
+#### 🆘 [Sunstone — AI-Enabled IoT SOS Emergency System](https://github.com/Devanshujain336/sunstone-guard-assist-86478)
 `Python` `Flask` `Isolation Forest` `IoT Sensors` `Twilio API` `Google Maps API` `REST APIs` `JavaScript`
 - One-press SOS alerts from wearable devices built for women's and elderly safety.
 - Flask backend processing concurrent multi-sensor IoT data streams, syncing alert delivery across Twilio and Google Maps APIs for real-time responder notification.
 - Anomaly detection pipeline on sensor data using Isolation Forest, with a real-time caregiver dashboard. Manuscript in preparation, Dept. of CSE, NIT Kurukshetra, 2025.
 
-#### 🍽️ [Rasoi — Smart Mess Management System (PWA)](https://github.com/YOUR-USERNAME/rasoi)
+#### 🍽️ [Rasoi — Smart Mess Management System (PWA)](https://github.com/Devanshujain336/Rasoi)
 `Node.js` `Express` `MongoDB` `React` `PWA` `Render` `Vercel` `CI/CD`
 - Progressive Web App digitizing hostel mess operations — meal feedback, attendance tracking, and billing updates.
 - End-to-end production system with RESTful APIs in Node.js and MongoDB, optimized indexing and concurrent request handling, serving 400+ hostel residents.
 - Automated CI/CD pipelines with a scalable production architecture deployed on Render and Vercel.
 
-#### 💬 [HealthMitra — AI-Powered WhatsApp Healthcare Agent](https://github.com/YOUR-USERNAME/healthmitra)
+#### 💬 [HealthMitra — AI-Powered WhatsApp Healthcare Agent](https://github.com/Devanshujain336/N8n-Workflow-for-AnganWadi-workers)
 `n8n` `WhatsApp Business API` `Node.js` `AI/NLP`
 - AI-integrated WhatsApp healthcare agent automating vaccination reminders, nutrition screening, and outbreak alerts for rural and low-literacy users.
 - Event-driven asynchronous workflows in n8n with concurrent session handling, scheduling, conditional routing, and escalation logic.
@@ -88,7 +92,7 @@
 
 <p align="left">
   <a href="mailto:devanshujain336@gmail.com"><img src="https://img.shields.io/badge/Gmail-devanshujain336%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/devanshujain12"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>📊 Add a GitHub stats card by inserting: <code>![Devanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)</code></i></p>
+<p align="center"><i>📊 Add a GitHub stats card by inserting: <code>![Devanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devanshujain336&show_icons=true&theme=default)</code></i></p>
