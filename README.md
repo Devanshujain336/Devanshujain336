@@ -1,98 +1,73 @@
 <h1 align="center">Hi there, I'm Devanshu Jain 👋</h1>
 
-<h3 align="center">Building distributed systems and AI-powered automations and products</h3>
-
 <p align="center">
-  <a href="mailto:devanshujain336@gmail.com"><img src="https://img.shields.io/badge/Email-devanshujain336%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/devanshujain12"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/DevZen"><img src="https://img.shields.io/badge/LeetCode-1720%2B-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/DevZen"><img src="https://img.shields.io/badge/Codolio-Profile-6C63FF?style=flat"/></a>
+  <b>Computer Science & Engineering Student at NIT Kurukshetra</b><br>
+  Specializing in Distributed Systems, Event-Driven Automations, and IoT/AI Products.
 </p>
 
-<div align="center">
-  <img src="github_profile.svg" alt="Devanshu Jain Terminal Profile" width="100%">
-</div>
+<p align="center">
+  <a href="mailto:devanshujain336@gmail.com"><img src="https://img.shields.io/badge/Email-devanshujain336%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/devanshujain12"><img src="https://img.shields.io/badge/LinkedIn-devanshujain12-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/DevZen"><img src="https://img.shields.io/badge/LeetCode-DevZen-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+  <a href="https://codolio.com/profile/DevZen"><img src="https://img.shields.io/badge/Codolio-DevZen-6C63FF?style=flat-square"/></a>
+</p>
 
 ---
 
-### 🎓 About Me
+### 🏆 Engineering & CP Milestones
 
-- 🎓 B.Tech + M.Tech Dual Degree in **Computer Science & Engineering**, National Institute of Technology, Kurukshetra (2024 – 2029)
-- 💻 Interested in **Distributed Systems, Concurrency, System Design**, and **AI/ML applications**
-- 🏆 **AIR 1499** — ICPC Amritapuri Regional Contest 2025
-- 🥈 **Runner-Up**, HackShetra 25 (NIT Kurukshetra's flagship hackathon, 150+ teams)
-- 🥇 **Top 12 nationally** — Zentiti National Hackathon by Synersis Group (600+ teams)
-- 🔥 900+ DSA & CP problems solved · 100+ contests · 450+ day active streak
-- 🌱 Currently exploring Generative AI and event-driven, concurrent system design
+- **ICPC Regionalist**: Secured **AIR 1499** in the ICPC Amritapuri Regional Contest 2025.
+- **LeetCode Max Rating**: **1720+** (Top 7%), with **900+ CP/DSA problems solved** across platforms and a **450+ day active streak**.
+- **Hackathon Runner-Up**: Runner-Up at **HackShetra '25** (NIT Kurukshetra's flagship hackathon, competing against 150+ teams).
+- **Top 12 Nationally**: Placed in the **Top 12 out of 600+ teams** at the Zentiti National Hackathon by Synersis Group.
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Highlighted Work & Technical Challenges Solved
 
-**Languages**
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+#### 🚨 [Sunstone — AI-Enabled IoT SOS Emergency System](https://github.com/Devanshujain336/sunstone-guard-assist-86478)
+> **Women's and elderly safety wearable system delivering real-time distress alerts.**
+- **Concurrency & IoT Streams**: Developed a Flask backend that ingests and processes high-frequency multi-sensor streams.
+- **Alert Syncing**: Integrated Twilio API and Google Maps API to broadcast geographic location and alert responders synchronously in real time.
+- **Anomaly Detection**: Designed and trained an **Isolation Forest** ML pipeline to classify anomalies on sensor telemetry.
+- *Stack: Python, Flask, Isolation Forest, Twilio API, Google Maps API, IoT Sensors, JavaScript*
 
-**Frameworks & Libraries**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+#### 🍽️ [Rasoi — Smart Mess Management System (PWA)](https://github.com/Devanshujain336/Rasoi) | [Live Demo](https://rasoi-nn78.vercel.app/)
+> **Hostel mess operations digitizer serving 400+ residents daily.**
+- **Database Optimization**: Designed backend RESTful APIs using Node.js, Express, and MongoDB. Structured complex indexing policies to optimize lookup speed and concurrent request handling.
+- **Deployment & CI/CD**: Established automated GitHub Actions pipelines to deploy backend on Render and frontend on Vercel.
+- *Stack: Node.js, Express, MongoDB, React, PWA, Render, Vercel, CI/CD*
 
-**Databases & Tools**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Core Concepts**
-`Distributed Systems` `Concurrency & Multi-threading` `System Design` `Operating Systems` `Computer Networks` `DBMS` `REST APIs` `OOP`
+#### 💬 [HealthMitra — AI-Powered WhatsApp Healthcare Agent](https://github.com/Devanshujain336/N8n-Workflow-for-AnganWadi-workers) | [Video Demo](https://youtu.be/QaTRw4GxyUY)
+> **AI healthcare agent providing vaccination reminders and nutritional triage for rural areas.**
+- **Event-Driven Workflows**: Engineered robust event-driven workflows in **n8n** utilizing asynchronous processing.
+- **Routing & Escalation**: Designed complex conditional routing, cron scheduling, and escalation protocols for seamless session persistence.
+- **Multilingual UI**: Enabled voice-first interfaces to give low-literacy users zero-app access.
+- *Stack: n8n, WhatsApp Business API, Node.js, AI/NLP*
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Technical Ecosystem
 
-#### 🆘 [Sunstone — AI-Enabled IoT SOS Emergency System](https://github.com/Devanshujain336/sunstone-guard-assist-86478)
-`Python` `Flask` `Isolation Forest` `IoT Sensors` `Twilio API` `Google Maps API` `REST APIs` `JavaScript`
-- One-press SOS alerts from wearable devices built for women's and elderly safety.
-- Flask backend processing concurrent multi-sensor IoT data streams, syncing alert delivery across Twilio and Google Maps APIs for real-time responder notification.
-- Anomaly detection pipeline on sensor data using Isolation Forest, with a real-time caregiver dashboard. Manuscript in preparation, Dept. of CSE, NIT Kurukshetra, 2025.
-
-#### 🍽️ [Rasoi — Smart Mess Management System (PWA)](https://github.com/Devanshujain336/Rasoi)
-`Node.js` `Express` `MongoDB` `React` `PWA` `Render` `Vercel` `CI/CD`
-- Progressive Web App digitizing hostel mess operations — meal feedback, attendance tracking, and billing updates.
-- End-to-end production system with RESTful APIs in Node.js and MongoDB, optimized indexing and concurrent request handling, serving 400+ hostel residents.
-- Automated CI/CD pipelines with a scalable production architecture deployed on Render and Vercel.
-
-#### 💬 [HealthMitra — AI-Powered WhatsApp Healthcare Agent](https://github.com/Devanshujain336/N8n-Workflow-for-AnganWadi-workers)
-`n8n` `WhatsApp Business API` `Node.js` `AI/NLP`
-- AI-integrated WhatsApp healthcare agent automating vaccination reminders, nutrition screening, and outbreak alerts for rural and low-literacy users.
-- Event-driven asynchronous workflows in n8n with concurrent session handling, scheduling, conditional routing, and escalation logic.
-- Multilingual, voice-first interaction enabling zero-app healthcare access in low-connectivity regions.
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | `C` `C++` `Java` `JavaScript` `Python` `Bash` `SQL` |
+| **Systems** | `Distributed Systems` `Concurrency` `Multi-threading` `Synchronization` `System Design` `OS` `Computer Networks` |
+| **Libraries / Frameworks** | `FastAPI` `React.js` `Flask` `NumPy` `Pandas` `AI` `GenAI` `ML` `Computer Vision` |
+| **Databases & Tools** | `MongoDB` `MySQL` `Git` `VS Code` `n8n` `WhatsApp Business API` `Render` `Vercel` |
 
 ---
 
 ### 🤝 Positions of Responsibility
 
-**Alumni Cell, NIT Kurukshetra** — *Relations & Outreach Team Member* · Jan 2026 – Present
-- Organized NIT Kurukshetra's first global alumni meet, connecting 500+ alumni.
+**Relations & Outreach Team Member** at **Alumni Cell, NIT Kurukshetra** *(Jan 2026 – Present)*
+- Strengthen alumni-student relations by organizing outreach events and global alumni summits.
 
 ---
 
-### 📫 Let's Connect
+### 📊 GitHub Activity & Metrics
 
-<p align="left">
-  <a href="mailto:devanshujain336@gmail.com"><img src="https://img.shields.io/badge/Gmail-devanshujain336%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/devanshujain12"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<p align="center"><i>📊 Add a GitHub stats card by inserting: <code>![Devanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devanshujain336&show_icons=true&theme=default)</code></i></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devanshujain336&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshujain336&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+</div>
